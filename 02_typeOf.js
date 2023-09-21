@@ -1,0 +1,28 @@
+console.log("=======Assigment NO 2========");
+console.log("----------Step 1--------------");
+console.log(".................before initilazation.................");
+var bankName;
+console.log("Bank Name:",bankName,"Type:",typeof(bankName));
+console.log(".................after initilazation..................");
+bankName="SBI Bank";
+console.log("Bank Name:",bankName,"Type:",typeof(bankName));
+console.log("__________________________________________________________________________");
+console.log("----------Step 2--------------");
+var marks="90";
+console.log("Marks=",marks,"Type:",typeof(marks));
+console.log("__________________________________________________________________________");
+console.log("----------Step 3--------------");
+console.log(".................before initilazation.................");
+var isWorking;
+console.log("isWorking:",isWorking,"Type:",typeof(isWorking));
+console.log(".................after initilazation..................");
+isWorking=true;
+console.log("isWorking:",isWorking,"Type:",typeof(isWorking));
+console.log("__________________________________________________________________________");
+console.log("----------Step 4--------------");
+console.log("-----a-----");
+var totalCount=" Hundred and  Seven";
+console.log("total count:",totalCount,"Type:",typeof(totalCount));
+console.log("-----b-----")
+totalCount=107;
+console.log("total count:",totalCount,"Type:",typeof(totalCount));
