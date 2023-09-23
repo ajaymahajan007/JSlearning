@@ -17,12 +17,14 @@ function swapValues(value1,value2){
     temp=value1;
     value1=value2;
     value2=temp;
-    console.log(value1,value2);
+    console.log(value1,value2); 
 }swapValues("Virat", "Anushka");
 swapValues(1000,2000);
 console.log("=========NO 4==========");
-function addThreeValue(a,b,c,){
+function addThreeValue(a,b,c,){;
     var result=a+b+c;
 return result;
 } var num =addThreeValue(10.23,600,40);
+ var out=addThreeValue("hellow" ," Good", " Morning ");
 console.log("Addition OF Three Number Is " + num);
+console.log(out);
